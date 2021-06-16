@@ -1,4 +1,20 @@
 # MonoDepth
+
+
+Fork of https://github.com/OniroAI/MonoDepth-PyTorch
+By Mauricio André de Almeida
+Some changes to test on Google Colab with a different dataset
+
+https://midair.ulg.ac.be/index.html
+@INPROCEEDINGS{Fonder2019MidAir,
+author = {Michael Fonder and Marc Van Droogenbroeck},
+title = {Mid-Air: A multi-modal dataset for extremely low altitude drone flights},
+booktitle = {Conference on Computer Vision and Pattern Recognition Workshop (CVPRW)},
+year = {2019},
+month = {June}
+}
+
+
 ![demo.gif animation](readme_images/demo.gif)
 
 This repo is inspired by an amazing work of [Clément Godard](http://www0.cs.ucl.ac.uk/staff/C.Godard/), [Oisin Mac Aodha](http://vision.caltech.edu/~macaodha/) and [Gabriel J. Brostow](http://www0.cs.ucl.ac.uk/staff/g.brostow/) for Unsupervised Monocular Depth Estimation.
