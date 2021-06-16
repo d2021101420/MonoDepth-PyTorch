@@ -2,7 +2,9 @@
 
 
 Fork of https://github.com/OniroAI/MonoDepth-PyTorch
+
 By Mauricio André de Almeida
+
 Some changes to test on Google Colab with a different dataset
 
 https://midair.ulg.ac.be/index.html
